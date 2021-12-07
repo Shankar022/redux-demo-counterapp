@@ -1,7 +1,8 @@
 import Counter from './components/Counter';
 
 
-function App() {
+
+const  App = () => {
   return (
     <Counter />
   );
